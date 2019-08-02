@@ -1,0 +1,34 @@
+Ceci est un fichier texte qui contient les pages d'animer du site Adkami.Veuillez à chaque insertion direct dans le fichier d'animer d'une page manga mettre son id et le nom qui lui est associer puis separer le id,nom par un deux point.
+ID | Nom
+
+206:Ixion saga DT
+1190:Rokujouma no Shinryakusha!?
+8:Steins;Gate
+1277:DearS
+53:Vampire Knight
+751:Kamisama no Inai Nichiyoubi
+136:Kami nomi zo shiru sekai
+94:Bokura ga ita
+634:Yahari Ore no Seishun Love Comedy
+1835:Planetarian ~Chiisana Hoshi no Yume~
+2209:ReCreators
+948:Higashi no Eden
+692:Freezing
+631:Shingeki No Kyojin
+1732:My Hero Academia 
+2224:Quan Zhi Gao Shou 
+
+28:Pandora Hearts 
+
+3:One piece 
+
+2220:SukaSuka 
+
+1700:Monster Strike 
+
+
+
+1958:Soukou no Strain 
+
+632:Suisei no Gargantia 
+
